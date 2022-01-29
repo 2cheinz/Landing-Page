@@ -7,5 +7,3 @@ CSS has already gotten so much better. I have worked through the exercises and a
 so far. I feel fairly confident in my abilities as of now and this landing page project will be a 
 good test for me. Looking forward to see how it turns out and to keep progressing in my journey to
 become a full-time web developer!
-
-Football photo credit: Jean-Daniel Francoeur
