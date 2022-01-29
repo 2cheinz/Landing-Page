@@ -1,0 +1,200 @@
+
+
+body {
+    margin: auto;
+}
+
+.main {
+    background-color: #1F2937;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 100px;
+}
+
+.nav {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 48px;
+    padding: 10px 50px;
+}
+.logo {
+    font-weight: bold;
+    margin: 0 48px;
+}
+.links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+}
+
+ul {
+    list-style: none;
+    font-size: 12px;
+}
+.hero {
+   margin: 0 48px;
+   padding: 100px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 50px;
+   max-width: 100%;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    /* Come back to this at some point and figure out how to do the spacing between the header, text, and button. */
+}
+
+.image {
+    display: flex;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color:#3882F6;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    width: 75px;
+    padding: 5px;
+}
+
+img {
+    border-radius: 20px;
+    max-width: 100%;
+    font-size: 12px;
+}
+.middle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+    padding: 50px 100px 150px 100px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    margin: 0 48px;
+    padding: 25px;
+}
+
+.container {
+    margin: 0 60px;
+    display: flex;
+    gap: 20px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.text {
+    color:black;
+    text-align: center;
+    font-size: 12px;
+}
+
+.image2 {
+    border-style: solid;
+    border-color: lightskyblue;
+    border-width: 2px;
+}
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.quote1 {
+    padding: 100px 100px 0px 100px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    text-align: center;
+}
+
+.author {
+    color: #1F2937;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    margin-right: 150px;
+    margin-top: 0px;
+    align-self: flex-end;
+}
+.modal {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container2 {
+    margin: 80px 100px;
+    background-color: #3882F6;
+    color: white;
+    border-radius: 6px;
+    padding: 10px 50px;
+    gap: 2px;
+    width: 75%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center; 
+}
+.header {
+    font-weight: bolder;
+    font-size: 30px;
+    display: flex;
+}
+
+.text2 {
+   font-size: smaller;
+}
+
+.sign-up {
+    display: flex;
+    align-self: flex-end;
+}
+.button2 {
+    background-color: #3882F6;
+    color: white;
+    border-style: solid;
+    border-color: white;  
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #1F2937;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+
+
